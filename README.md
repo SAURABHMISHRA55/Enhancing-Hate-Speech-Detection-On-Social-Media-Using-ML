@@ -23,6 +23,9 @@ Contains all Jupyter notebooks with the implementation of individual models and 
 - `LSTM.ipynb`
 - `updated BERT + CNN.ipynb`
 
+### Dataset
+https://www.kaggle.com/datasets/eldrich/hate-speech-offensive-tweets-by-davidson-et-al/data
+
 ### `review/`
 Documentation and summaries related to foundational texts and peer reviews:
 - `review 1/` - Contains a book on "SENTIMENT ANALYSIS AND OPINION MINING" and its summary.
