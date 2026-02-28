@@ -39,16 +39,32 @@ Contains PDFs of papers that inspired the model integrations:
 - `distilbert+bilstm.pdf`
 
 ## Research Paper
-The accompanying research paper detailing the methodologies, findings, and implications of this study is currently under review. Upon publication, the paper will be added to this repository for comprehensive insight into the techniques developed and their potential applications.
+The accompanying research paper has been published on arXiv:
 
-## Future Updates
-Further updates, including additional model evaluations, improvements based on peer review feedback, and the final published paper, will be added to this repository.
+**"Enhancing Hate Speech Detection on Social Media: A Comparative Analysis 
+of Machine Learning Models and Text Transformation Approaches"**
+
+Authors: Saurabh Mishra, Shivani Thakur, Radhika Mamidi  
+Institution: IIIT Hyderabad  
+📄 arXiv: https://arxiv.org/abs/2602.20634
+
+## Citation
+If you use this code or paper in your work, please cite:
+
+@misc{mishra2026hatespeech,
+  title={Enhancing Hate Speech Detection on Social Media: A Comparative 
+         Analysis of Machine Learning Models and Text Transformation Approaches},
+  author={Mishra, Saurabh and Thakur, Shivani and Mamidi, Radhika},
+  year={2026},
+  eprint={2602.20634},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2602.20634}
+}
 
 ## Attribution
-
-If you use this code, please give credit to the author by mentioning or tagging me ([@SAURABHMISHRA55](https://github.com/SAURABHMISHRA55)) in any related work, publications, or repositories.
-
-When the paper related to this work is published, please consider citing it as well. I will update this repository with citation details once the paper is available.
-
+If you use this code, please give credit by mentioning or tagging 
+[@SAURABHMISHRA55](https://github.com/SAURABHMISHRA55) in any related 
+work, publications, or repositories.
 
 ---
