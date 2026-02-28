@@ -50,7 +50,7 @@ Institution: IIIT Hyderabad
 
 ## Citation
 If you use this code or paper in your work, please cite:
-
+```bibtex
 @misc{mishra2026hatespeech,
   title={Enhancing Hate Speech Detection on Social Media: A Comparative 
          Analysis of Machine Learning Models and Text Transformation Approaches},
@@ -61,6 +61,7 @@ If you use this code or paper in your work, please cite:
   primaryClass={cs.CL},
   url={https://arxiv.org/abs/2602.20634}
 }
+```
 
 ## Attribution
 If you use this code, please give credit by mentioning or tagging 
